@@ -15,3 +15,6 @@ An SQLite database for a school, based on a ER Diagram.
 * Add a new SQLite Data Source
 * Next to ```File``` click on ```...``` and select the Database.db file
 * Click on ```OK```
+
+## ER Diagram
+![Diagram](https://raw.githubusercontent.com/etheoo98/labb2-er-modeling/master/.github/images/Diagram.drawio.png?token=GHSAT0AAAAAACKV7EYLVI5DZ4WDVVC67SJ4ZLTCCEQ)
